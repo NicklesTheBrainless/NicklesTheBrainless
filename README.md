@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nickles-sucks-at-coding
 - 👀 I’m interested in 3d rendering and making engines
 - 🌱 I’m currently learning a lot of things
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on everything and nothing
 - 📫 How to reach me: through my discord (username: "__nickles__")
 - 😄 Pronouns: Butter/cat
 - ⚡ Fun fact: I like java
