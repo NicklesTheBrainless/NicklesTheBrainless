@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nickles-sucks-at-coding
+- 👋 Hi, I’m @NicklesTheBrainless
 - 👀 I’m interested in 3d rendering and making engines
 - 🌱 I’m currently learning a lot of things
 - 💞️ I’m looking to collaborate on everything and nothing (I don't really know yet)
