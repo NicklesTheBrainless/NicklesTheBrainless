@@ -2,4 +2,4 @@
 - 👀 I’m interested in 3d rendering and any programming with math
 - 🌱 I’m currently learning a lot of things
 - 📫 How to reach me: through my discord (username: "\_\_nickles\_\_") or through my email (address: "niconickles8@gmail.com")
-- ⚡ Fun fact: I like java
+- ⚡ Fun fact: I like java and feet
